@@ -6,6 +6,7 @@ import dagger.hilt.android.HiltAndroidApp
 // complete navigation
 // implement billing done.
 // added revenueCat.
+// implement multimodule
 
 @HiltAndroidApp
 class UserApp : Application()

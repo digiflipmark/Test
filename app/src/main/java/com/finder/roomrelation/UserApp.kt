@@ -9,6 +9,7 @@ import dagger.hilt.android.HiltAndroidApp
 // implement multimodule
 // test
 // change to revenuecat billing to playstore billing
+// update yaml file
 
 @HiltAndroidApp
 class UserApp : Application()

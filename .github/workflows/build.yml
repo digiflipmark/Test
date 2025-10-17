@@ -2,7 +2,7 @@ name: Android CI
 on:
   push:
     branches:
-      - 'features-revenuecat'
+      - 'features-xyz'
 jobs:
   build:
     runs-on: ubuntu-latest

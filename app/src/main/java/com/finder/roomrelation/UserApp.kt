@@ -7,7 +7,7 @@ import dagger.hilt.android.HiltAndroidApp
 // implement billing done.
 // added revenueCat.
 // implement multimodule
-//test
+// test
 
 @HiltAndroidApp
 class UserApp : Application()

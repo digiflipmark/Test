@@ -1,8 +1,8 @@
 name: Android CI
 on:
-  pull_request:
+  push:
     branches:
-      - features-revenuecat
+      - 'features-revenuecat'
 jobs:
   build:
     runs-on: ubuntu-latest
